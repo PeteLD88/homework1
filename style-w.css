@@ -10,6 +10,7 @@ ul {
 }
 table {
     border: 1px solid gray;
+    border-collapse: collapse;
 }
 tr:first-child {
     background-color: lightcyan;
