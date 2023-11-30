@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    border: 1px solid grey;
+    border-left-style: unset;
+    border-right-style: unset;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+table {
+    width: 100%;
+    border: 1px solid gray;
+}
+tr:first-child {
+    text-align: center;
+  }
+tr:nth-child(2)
+  {
+    text-align: center;
+  }  
+tr {
+border: 1px solid gray;
+}
+td {
+border: 1px solid gray;
+}

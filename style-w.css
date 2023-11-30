@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    border: 1px solid grey;
+    border-left-style: unset;
+    border-right-style: unset;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+table {
+    border: 1px solid gray;
+}
+tr:first-child {
+    background-color: lightcyan;
+  }
+tr {
+    border: 1px solid gray
+}
+td {
+    border: 1px solid gray;
+}
